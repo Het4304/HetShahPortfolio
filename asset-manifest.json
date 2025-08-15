@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HetShahPortfolio/static/css/main.656beef3.css",
+    "main.js": "/HetShahPortfolio/static/js/main.86ba6fb7.js",
+    "static/js/453.c8246df0.chunk.js": "/HetShahPortfolio/static/js/453.c8246df0.chunk.js",
+    "index.html": "/HetShahPortfolio/index.html",
+    "main.656beef3.css.map": "/HetShahPortfolio/static/css/main.656beef3.css.map",
+    "main.86ba6fb7.js.map": "/HetShahPortfolio/static/js/main.86ba6fb7.js.map",
+    "453.c8246df0.chunk.js.map": "/HetShahPortfolio/static/js/453.c8246df0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.656beef3.css",
+    "static/js/main.86ba6fb7.js"
+  ]
+}
